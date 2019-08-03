@@ -1,0 +1,9 @@
+{
+  "desc": "奇迹暖暖",
+  "rules": [
+    {
+      "action": "allow",
+      "page": "*"
+    }
+  ]
+}

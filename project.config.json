@@ -1,0 +1,89 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.7.0",
+	"appid": "wx101225cd6ff7f45b",
+	"projectname": "qjnn",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 5,
+			"list": [
+				{
+					"id": -1,
+					"name": "主页",
+					"pathName": "pages/comic/comic",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "短视频",
+					"pathName": "pages/video/video",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "短视频进入",
+					"pathName": "pages/video_play/videoPlay",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "点",
+					"pathName": "pages/comic_detail/comicDetail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "内部",
+					"pathName": "pages/comic-reader/comicReader",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/ucenter/ucenter",
+					"scene": null
+				}
+			]
+		}
+	}
+}
